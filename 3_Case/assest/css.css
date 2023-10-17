@@ -1,7 +1,7 @@
 #frame{
     width: 200px;
     aspect-ratio: 1/1;
-    border: 10px solid gray;
+    border: 10px solid grey;
     border-radius: 100%;
 
     position: fixed;
@@ -46,7 +46,7 @@ section>div{
     /*margin-top: 315.4px;
     margin-bottom: 315.4px;*/
 
-    margin: 315.4px 0px;
+    margin: 310.4px 0px;
 }
 
 section>div:nth-child(1){
